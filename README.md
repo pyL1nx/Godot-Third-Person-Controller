@@ -11,28 +11,20 @@ This project was created while learning Godot — inspired by the tutorial:
 
 🟦 Player Movement
 
-✔ Smooth walking
-
-✔ Speed-boosted running
-
-✔ Direction-based root motion style movement
-
-✔ Auto-rotation of character visuals
+ Smooth walking
+ Speed-boosted running
+ Direction-based root motion style movement
+ Auto-rotation of character visuals
 
 🟩 Camera System
 
-✔ Mouse lock & unlock
-
-✔ Free-look movement
-
-✔ Rotation clamped vertically
-
-✔ Automatic re-lock on click
+Mouse lock & unlock
+Free-look movement
+Rotation clamped vertically
+Automatic re-lock on click
 
 🟧 Combat / Actions
 
-✔ Basic kick attack
-
-✔ Animation-locked attack state
-
-✔ Idle → Walk → Run → Kick transitions
+Basic kick attack
+Animation-locked attack state
+Idle → Walk → Run → Kick transitions
