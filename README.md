@@ -7,7 +7,8 @@ This project was created while learning Godot — inspired by the tutorial:
 
 …and extended with my own improvements.
 
-🎮 Features
+# Features
+
 🟦 Player Movement
 
 ✔ Smooth walking
@@ -35,5 +36,3 @@ This project was created while learning Godot — inspired by the tutorial:
 ✔ Animation-locked attack state
 
 ✔ Idle → Walk → Run → Kick transitions
-
-🟪 Advanced Animation System
